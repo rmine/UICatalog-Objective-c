@@ -1,0 +1,432 @@
+
+/* Class = "UILabel"; text = "Alert Controller"; ObjectID = "0Qb-8W-uO1"; */
+"0Qb-8W-uO1.text" = "Alert Controller";
+
+/* Class = "UILabel"; text = "Switches"; ObjectID = "0bB-tz-KnI"; */
+"0bB-tz-KnI.text" = "Switches";
+
+/* Class = "UILabel"; text = "AAPLCustomSearchBarViewController"; ObjectID = "1bp-MM-SP4"; */
+"1bp-MM-SP4.text" = "AAPLCustomSearchBarViewController";
+
+/* Class = "UILabel"; text = "Present Over Navigation Bar"; ObjectID = "1gx-HQ-UdA"; */
+"1gx-HQ-UdA.text" = "Present Over Navigation Bar";
+
+/* Class = "UINavigationItem"; title = "Image Views"; ObjectID = "1uT-59-ex0"; */
+"1uT-59-ex0.title" = "Image Views";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "2JS-A6-933"; */
+"2JS-A6-933.headerTitle" = "Default";
+
+/* Class = "UILabel"; text = "AAPLActivityIndicatorViewController"; ObjectID = "2br-gN-EbC"; */
+"2br-gN-EbC.text" = "AAPLActivityIndicatorViewController";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "2dq-Xl-v3s"; */
+"2dq-Xl-v3s.text" = "Other";
+
+/* Class = "UILabel"; text = "AAPLAlertControllerViewController"; ObjectID = "2sI-TM-th4"; */
+"2sI-TM-th4.text" = "AAPLAlertControllerViewController";
+
+/* Class = "UINavigationItem"; title = "Web View"; ObjectID = "2wp-eP-VHc"; */
+"2wp-eP-VHc.title" = "Web View";
+
+/* Class = "UINavigationItem"; title = "Search Bar Embedded in Navigation Bar"; ObjectID = "4CJ-3z-VCg"; */
+"4CJ-3z-VCg.title" = "Search Bar Embedded in Navigation Bar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4Kt-uW-BR1"; */
+"4Kt-uW-BR1.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter an address"; ObjectID = "4SG-D0-eXQ"; */
+"4SG-D0-eXQ.placeholder" = "Enter an address";
+
+/* Class = "UITextField"; text = "http://apple.com"; ObjectID = "4SG-D0-eXQ"; */
+"4SG-D0-eXQ.text" = "http://apple.com";
+
+/* Class = "UILabel"; text = "Search results cell"; ObjectID = "4nX-D4-lVz"; */
+"4nX-D4-lVz.text" = "Search results cell";
+
+/* Class = "UINavigationItem"; title = "Date Picker"; ObjectID = "5Rw-xB-A3a"; */
+"5Rw-xB-A3a.title" = "Date Picker";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom"; ObjectID = "61k-iV-riT"; */
+"61k-iV-riT.headerTitle" = "Custom";
+
+/* Class = "UITableViewSection"; headerTitle = "Action Sheet Style"; ObjectID = "8A1-2Z-SYE"; */
+"8A1-2Z-SYE.headerTitle" = "Action Sheet Style";
+
+/* Class = "UINavigationItem"; title = "Custom Toolbar"; ObjectID = "8Kd-pe-aJz"; */
+"8Kd-pe-aJz.title" = "Custom Toolbar";
+
+/* Class = "UILabel"; text = "AAPLSwitchViewController"; ObjectID = "8OX-tj-Cqv"; */
+"8OX-tj-Cqv.text" = "AAPLSwitchViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Specific Keyboard"; ObjectID = "8fd-bp-7eJ"; */
+"8fd-bp-7eJ.headerTitle" = "Specific Keyboard";
+
+/* Class = "UITableViewSection"; headerTitle = "Secure"; ObjectID = "9AM-Ev-vhx"; */
+"9AM-Ev-vhx.headerTitle" = "Secure";
+
+/* Class = "UINavigationItem"; title = "Default Search Bar"; ObjectID = "9cE-E9-0ZD"; */
+"9cE-E9-0ZD.title" = "Default Search Bar";
+
+/* Class = "UINavigationItem"; title = "Alert Controllers"; ObjectID = "9rd-9I-l4O"; */
+"9rd-9I-l4O.title" = "Alert Controllers";
+
+/* Class = "UILabel"; text = "Custom"; ObjectID = "9rs-Ea-U0y"; */
+"9rs-Ea-U0y.text" = "Custom";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "A1X-FU-XOh"; */
+"A1X-FU-XOh.headerTitle" = "Default";
+
+/* Class = "UISegmentedControl"; A3j-iT-hVF.segmentTitles[0] = "Check"; ObjectID = "A3j-iT-hVF"; */
+"A3j-iT-hVF.segmentTitles[0]" = "Check";
+
+/* Class = "UISegmentedControl"; A3j-iT-hVF.segmentTitles[1] = "Search"; ObjectID = "A3j-iT-hVF"; */
+"A3j-iT-hVF.segmentTitles[1]" = "Search";
+
+/* Class = "UISegmentedControl"; A3j-iT-hVF.segmentTitles[2] = "Tools"; ObjectID = "A3j-iT-hVF"; */
+"A3j-iT-hVF.segmentTitles[2]" = "Tools";
+
+/* Class = "UILabel"; text = "AAPLTintedToolbarViewController"; ObjectID = "ASn-gm-hOE"; */
+"ASn-gm-hOE.text" = "AAPLTintedToolbarViewController";
+
+/* Class = "UINavigationItem"; title = "Page Control"; ObjectID = "BMt-yu-jqx"; */
+"BMt-yu-jqx.title" = "Page Control";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "BWQ-mA-QUS"; */
+"BWQ-mA-QUS.text" = "Default";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "CBk-hR-hJd"; */
+"CBk-hR-hJd.headerTitle" = "Tinted";
+
+/* Class = "UISegmentedControl"; D6r-9d-m6L.segmentTitles[0] = "Check"; ObjectID = "D6r-9d-m6L"; */
+"D6r-9d-m6L.segmentTitles[0]" = "Check";
+
+/* Class = "UISegmentedControl"; D6r-9d-m6L.segmentTitles[1] = "Search"; ObjectID = "D6r-9d-m6L"; */
+"D6r-9d-m6L.segmentTitles[1]" = "Search";
+
+/* Class = "UISegmentedControl"; D6r-9d-m6L.segmentTitles[2] = "Tools"; ObjectID = "D6r-9d-m6L"; */
+"D6r-9d-m6L.segmentTitles[2]" = "Tools";
+
+/* Class = "UILabel"; text = "Current Date Label"; ObjectID = "DYQ-WW-AAd"; */
+"DYQ-WW-AAd.text" = "Current Date Label";
+
+/* Class = "UINavigationItem"; title = "Switches"; ObjectID = "E77-79-RWj"; */
+"E77-79-RWj.title" = "Switches";
+
+/* Class = "UILabel"; text = "Search Bar Embedded in Navigation Bar"; ObjectID = "Ezo-gk-Uc4"; */
+"Ezo-gk-Uc4.text" = "Search Bar Embedded in Navigation Bar";
+
+/* Class = "UILabel"; text = "Image View"; ObjectID = "Flp-wf-qit"; */
+"Flp-wf-qit.text" = "Image View";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Background"; ObjectID = "Flv-0Z-gFn"; */
+"Flv-0Z-gFn.headerTitle" = "Custom Background";
+
+/* Class = "UILabel"; text = "Progress Views"; ObjectID = "G7a-fs-qS5"; */
+"G7a-fs-qS5.text" = "Progress Views";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "GM5-I7-cLR"; */
+"GM5-I7-cLR.headerTitle" = "Default";
+
+/* Class = "UISplitViewController"; title = "UICatalog"; ObjectID = "H1p-Uh-vWS"; */
+"H1p-Uh-vWS.title" = "UICatalog";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "HCa-pZ-1xG"; */
+"HCa-pZ-1xG.headerTitle" = "Default";
+
+/* Class = "UILabel"; text = "Buttons"; ObjectID = "IG2-PT-8SC"; */
+"IG2-PT-8SC.text" = "Buttons";
+
+/* Class = "UILabel"; text = "AAPLTextFieldViewController"; ObjectID = "ILz-fq-rQ3"; */
+"ILz-fq-rQ3.text" = "AAPLTextFieldViewController";
+
+/* Class = "UINavigationItem"; title = "Custom Search Bar"; ObjectID = "Ihq-wG-qIe"; */
+"Ihq-wG-qIe.title" = "Custom Search Bar";
+
+/* Class = "UINavigationItem"; title = "Results in Searched Controller"; ObjectID = "JHA-3l-XIT"; */
+"JHA-3l-XIT.title" = "Results in Searched Controller";
+
+/* Class = "UITableViewSection"; headerTitle = "Alert Style"; ObjectID = "JaZ-Ik-3It"; */
+"JaZ-Ik-3It.headerTitle" = "Alert Style";
+
+/* Class = "UILabel"; text = "AAPLCustomToolbarViewController"; ObjectID = "Jum-VQ-k6W"; */
+"Jum-VQ-k6W.text" = "AAPLCustomToolbarViewController";
+
+/* Class = "UILabel"; text = "Page Control"; ObjectID = "KL5-HY-kj5"; */
+"KL5-HY-kj5.text" = "Page Control";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Segments"; ObjectID = "LBr-nb-ZpU"; */
+"LBr-nb-ZpU.headerTitle" = "Custom Segments";
+
+/* Class = "UILabel"; text = "AAPLSegmentedControlViewController"; ObjectID = "LJu-FZ-3xC"; */
+"LJu-FZ-3xC.text" = "AAPLSegmentedControlViewController";
+
+/* Class = "UINavigationItem"; title = "Segmented Controls"; ObjectID = "LSm-7X-Qet"; */
+"LSm-7X-Qet.title" = "Segmented Controls";
+
+/* Class = "UINavigationItem"; title = "Sliders"; ObjectID = "Lp8-FI-W8w"; */
+"Lp8-FI-W8w.title" = "Sliders";
+
+/* Class = "UINavigationItem"; title = "Buttons"; ObjectID = "NGY-Dv-sY9"; */
+"NGY-Dv-sY9.title" = "Buttons";
+
+/* Class = "UILabel"; text = "AAPLSliderViewController"; ObjectID = "NNb-K1-ltf"; */
+"NNb-K1-ltf.text" = "AAPLSliderViewController";
+
+/* Class = "UILabel"; text = "AAPLSearchShowResultsInSourceViewController"; ObjectID = "OVj-MH-e14"; */
+"OVj-MH-e14.text" = "AAPLSearchShowResultsInSourceViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Attributed Text"; ObjectID = "Orn-0a-yT5"; */
+"Orn-0a-yT5.headerTitle" = "Attributed Text";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Pgb-CR-d8e"; */
+"Pgb-CR-d8e.text" = "0";
+
+/* Class = "UILabel"; text = "Picker View"; ObjectID = "PqT-vs-joe"; */
+"PqT-vs-joe.text" = "Picker View";
+
+/* Class = "UILabel"; text = "Search results cell"; ObjectID = "Q1t-5h-7ad"; */
+"Q1t-5h-7ad.text" = "Search results cell";
+
+/* Class = "UILabel"; text = "Text Entry"; ObjectID = "QST-9u-XS2"; */
+"QST-9u-XS2.text" = "Text Entry";
+
+/* Class = "UILabel"; text = "Date Picker"; ObjectID = "SEw-Gq-CDh"; */
+"SEw-Gq-CDh.text" = "Date Picker";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "Skx-L1-bFY"; */
+"Skx-L1-bFY.text" = "Search";
+
+/* Class = "UINavigationItem"; title = "Steppers"; ObjectID = "T8O-Ms-7gi"; */
+"T8O-Ms-7gi.title" = "Steppers";
+
+/* Class = "UITableViewSection"; headerTitle = "System (Detail Disclosure)"; ObjectID = "Uaa-gd-ORk"; */
+"Uaa-gd-ORk.headerTitle" = "System (Detail Disclosure)";
+
+/* Class = "UILabel"; text = "AAPLDefaultSearchBarViewController"; ObjectID = "V9C-8A-gUD"; */
+"V9C-8A-gUD.text" = "AAPLDefaultSearchBarViewController";
+
+/* Class = "UILabel"; text = "Tinted"; ObjectID = "Woh-D9-U3Q"; */
+"Woh-D9-U3Q.text" = "Tinted";
+
+/* Class = "UILabel"; text = "Explore UIKit controls as you navigate UICatalog. For more information on how UICatalog is structured, consult the ReadMe."; ObjectID = "XcN-UI-sYy"; */
+"XcN-UI-sYy.text" = "Explore UIKit controls as you navigate UICatalog. For more information on how UICatalog is structured, consult the ReadMe.";
+
+/* Class = "UINavigationItem"; title = "Tinted Toolbar"; ObjectID = "YFD-C8-lOm"; */
+"YFD-C8-lOm.title" = "Tinted Toolbar";
+
+/* Class = "UILabel"; text = "Secure Text Entry"; ObjectID = "YMc-Ck-AAm"; */
+"YMc-Ck-AAm.text" = "Secure Text Entry";
+
+/* Class = "UILabel"; text = "Search results cell"; ObjectID = "YS3-Ec-U0s"; */
+"YS3-Ec-U0s.text" = "Search results cell";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Z2y-Lj-pIC"; */
+"Z2y-Lj-pIC.title" = "Item";
+
+/* Class = "UILabel"; text = "AAPLProgressViewController"; ObjectID = "ZBb-Wh-NBa"; */
+"ZBb-Wh-NBa.text" = "AAPLProgressViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "System (Text)"; ObjectID = "ZP1-Vp-Dmj"; */
+"ZP1-Vp-Dmj.headerTitle" = "System (Text)";
+
+/* Class = "UINavigationItem"; title = "Text View"; ObjectID = "ZRc-vB-83q"; */
+"ZRc-vB-83q.title" = "Text View";
+
+/* Class = "UILabel"; text = "AAPLPageControlViewController"; ObjectID = "a4p-mj-xWE"; */
+"a4p-mj-xWE.text" = "AAPLPageControlViewController";
+
+/* Class = "UILabel"; text = "Toolbars"; ObjectID = "aOg-iA-ioL"; */
+"aOg-iA-ioL.text" = "Toolbars";
+
+/* Class = "UITableViewSection"; headerTitle = "Bar"; ObjectID = "bKC-KS-IHM"; */
+"bKC-KS-IHM.headerTitle" = "Bar";
+
+/* Class = "UITableViewController"; title = "Present Over Navigation Bar"; ObjectID = "c3l-vJ-AfP"; */
+"c3l-vJ-AfP.title" = "Present Over Navigation Bar";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "cew-EY-uxG"; */
+"cew-EY-uxG.title" = "Search";
+
+/* Class = "UILabel"; text = "Okay / Cancel"; ObjectID = "d0w-RT-OiQ"; */
+"d0w-RT-OiQ.text" = "Okay / Cancel";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "d5m-UB-mQU"; */
+"d5m-UB-mQU.title" = "Item";
+
+/* Class = "UILabel"; text = "Simple"; ObjectID = "d6Q-Gp-MaT"; */
+"d6Q-Gp-MaT.text" = "Simple";
+
+/* Class = "UILabel"; text = "AAPLWebViewController"; ObjectID = "dBz-tz-Vyo"; */
+"dBz-tz-Vyo.text" = "AAPLWebViewController";
+
+/* Class = "UINavigationItem"; title = "Picker View"; ObjectID = "dbS-ug-Aqt"; */
+"dbS-ug-Aqt.title" = "Picker View";
+
+/* Class = "UISegmentedControl"; dj6-Ch-8fj.segmentTitles[0] = "Check"; ObjectID = "dj6-Ch-8fj"; */
+"dj6-Ch-8fj.segmentTitles[0]" = "Check";
+
+/* Class = "UISegmentedControl"; dj6-Ch-8fj.segmentTitles[1] = "Search"; ObjectID = "dj6-Ch-8fj"; */
+"dj6-Ch-8fj.segmentTitles[1]" = "Search";
+
+/* Class = "UISegmentedControl"; dj6-Ch-8fj.segmentTitles[2] = "Tools"; ObjectID = "dj6-Ch-8fj"; */
+"dj6-Ch-8fj.segmentTitles[2]" = "Tools";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "eDM-aO-Nbd"; */
+"eDM-aO-Nbd.text" = "Other";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "eUe-E8-yfw"; */
+"eUe-E8-yfw.headerTitle" = "Default";
+
+/* Class = "UILabel"; text = "Results in Searched Controller"; ObjectID = "eqY-TZ-gNC"; */
+"eqY-TZ-gNC.text" = "Results in Searched Controller";
+
+/* Class = "UILabel"; text = "Text Fields"; ObjectID = "fJW-G3-Mpm"; */
+"fJW-G3-Mpm.text" = "Text Fields";
+
+/* Class = "UILabel"; text = "Okay / Cancel"; ObjectID = "fSa-fa-39a"; */
+"fSa-fa-39a.text" = "Okay / Cancel";
+
+/* Class = "UILabel"; text = "AAPLPickerViewController"; ObjectID = "fXo-WX-N22"; */
+"fXo-WX-N22.text" = "AAPLPickerViewController";
+
+/* Class = "UILabel"; text = "Web View"; ObjectID = "fqf-sR-Kxl"; */
+"fqf-sR-Kxl.text" = "Web View";
+
+/* Class = "UITableViewSection"; headerTitle = "Image"; ObjectID = "g6U-rt-rxY"; */
+"g6U-rt-rxY.headerTitle" = "Image";
+
+/* Class = "UILabel"; text = "Segmented Controls"; ObjectID = "gHf-Hd-sSu"; */
+"gHf-Hd-sSu.text" = "Segmented Controls";
+
+/* Class = "UILabel"; text = "AAPLButtonViewController"; ObjectID = "giE-NG-ERS"; */
+"giE-NG-ERS.text" = "AAPLButtonViewController";
+
+/* Class = "UISegmentedControl"; hvO-gV-AgD.segmentTitles[0] = "Check"; ObjectID = "hvO-gV-AgD"; */
+"hvO-gV-AgD.segmentTitles[0]" = "Check";
+
+/* Class = "UISegmentedControl"; hvO-gV-AgD.segmentTitles[1] = "Search"; ObjectID = "hvO-gV-AgD"; */
+"hvO-gV-AgD.segmentTitles[1]" = "Search";
+
+/* Class = "UISegmentedControl"; hvO-gV-AgD.segmentTitles[2] = "Tools"; ObjectID = "hvO-gV-AgD"; */
+"hvO-gV-AgD.segmentTitles[2]" = "Tools";
+
+/* Class = "UILabel"; text = "Search results cell"; ObjectID = "ibf-1L-DaZ"; */
+"ibf-1L-DaZ.text" = "Search results cell";
+
+/* Class = "UINavigationItem"; title = "Default Toolbar"; ObjectID = "idL-Dg-e1Q"; */
+"idL-Dg-e1Q.title" = "Default Toolbar";
+
+/* Class = "UILabel"; text = "AAPLDatePickerController"; ObjectID = "ie2-v8-gfS"; */
+"ie2-v8-gfS.text" = "AAPLDatePickerController";
+
+/* Class = "UINavigationItem"; title = "Toolbars"; ObjectID = "ign-UU-YrY"; */
+"ign-UU-YrY.title" = "Toolbars";
+
+/* Class = "UINavigationItem"; title = "Presented Over Navigation Bar"; ObjectID = "izM-lh-aNV"; */
+"izM-lh-aNV.title" = "Presented Over Navigation Bar";
+
+/* Class = "UILabel"; text = "AAPLDefaultToolbarViewController"; ObjectID = "jHK-zf-NDT"; */
+"jHK-zf-NDT.text" = "AAPLDefaultToolbarViewController";
+
+/* Class = "UILabel"; text = "Activity Indicators"; ObjectID = "jln-5b-5OS"; */
+"jln-5b-5OS.text" = "Activity Indicators";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "kA3-XI-PPC"; */
+"kA3-XI-PPC.headerTitle" = "Tinted";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom"; ObjectID = "l4j-0I-akf"; */
+"l4j-0I-akf.headerTitle" = "Custom";
+
+/* Class = "UILabel"; text = "Sliders"; ObjectID = "lPp-4R-eNU"; */
+"lPp-4R-eNU.text" = "Sliders";
+
+/* Class = "UINavigationItem"; title = "Progress Views"; ObjectID = "msy-b9-rro"; */
+"msy-b9-rro.title" = "Progress Views";
+
+/* Class = "UITableViewSection"; headerTitle = "Search Controllers"; ObjectID = "mum-D4-1ze"; */
+"mum-D4-1ze.headerTitle" = "Search Controllers";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "o6t-lj-Q9C"; */
+"o6t-lj-Q9C.text" = "0";
+
+/* Class = "UITableViewSection"; headerTitle = "Default"; ObjectID = "oCN-zS-UpR"; */
+"oCN-zS-UpR.headerTitle" = "Default";
+
+/* Class = "UINavigationItem"; title = "UICatalog"; ObjectID = "orG-S0-fV3"; */
+"orG-S0-fV3.title" = "UICatalog";
+
+/* Class = "UITableViewSection"; headerTitle = "Gray"; ObjectID = "ouK-wn-ttj"; */
+"ouK-wn-ttj.headerTitle" = "Gray";
+
+/* Class = "UILabel"; text = "AAPLSearchPresentOverNavigationBarViewController"; ObjectID = "q1B-RG-tXv"; */
+"q1B-RG-tXv.text" = "AAPLSearchPresentOverNavigationBarViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Search Bars"; ObjectID = "qKb-QH-LDx"; */
+"qKb-QH-LDx.headerTitle" = "Search Bars";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qU1-em-e89"; */
+"qU1-em-e89.text" = "0";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "qhz-Ob-BuS"; */
+"qhz-Ob-BuS.headerTitle" = "Tinted";
+
+/* Class = "UINavigationItem"; title = "Activity Indicators"; ObjectID = "rFK-Gi-nEu"; */
+"rFK-Gi-nEu.title" = "Activity Indicators";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "t6L-yS-vgt"; */
+"t6L-yS-vgt.text" = "Default";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tGF-rn-9B7"; */
+"tGF-rn-9B7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "AAPLSearchBarEmbeddedInNavigationBarController"; ObjectID = "tKh-dY-csc"; */
+"tKh-dY-csc.text" = "AAPLSearchBarEmbeddedInNavigationBarController";
+
+/* Class = "UILabel"; text = "Custom"; ObjectID = "ua9-oM-Gna"; */
+"ua9-oM-Gna.text" = "Custom";
+
+/* Class = "UILabel"; text = "Text View"; ObjectID = "ueT-gt-TN3"; */
+"ueT-gt-TN3.text" = "Text View";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "ugZ-rF-ygf"; */
+"ugZ-rF-ygf.headerTitle" = "Tinted";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom"; ObjectID = "v11-6g-9XU"; */
+"v11-6g-9XU.headerTitle" = "Custom";
+
+/* Class = "UILabel"; text = "AAPLImageViewController"; ObjectID = "v1v-Jb-eX3"; */
+"v1v-Jb-eX3.text" = "AAPLImageViewController";
+
+/* Class = "UILabel"; text = "AAPLStepperViewController"; ObjectID = "vKn-oa-F3z"; */
+"vKn-oa-F3z.text" = "AAPLStepperViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "vNR-X1-3Ow"; */
+"vNR-X1-3Ow.headerTitle" = "Tinted";
+
+/* Class = "UILabel"; text = "Steppers"; ObjectID = "wFG-wC-Lkf"; */
+"wFG-wC-Lkf.text" = "Steppers";
+
+/* Class = "UILabel"; text = "AAPLTextViewController"; ObjectID = "wzX-Ri-P74"; */
+"wzX-Ri-P74.text" = "AAPLTextViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "xT2-F1-qKq"; */
+"xT2-F1-qKq.headerTitle" = "Tinted";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "yPy-xd-oxi"; */
+"yPy-xd-oxi.headerTitle" = "Tinted";
+
+/* Class = "UITableViewSection"; headerTitle = "System (Contact Add)"; ObjectID = "yhv-dT-Yah"; */
+"yhv-dT-Yah.headerTitle" = "System (Contact Add)";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ykw-78-iZb"; */
+"ykw-78-iZb.title" = "Item";
+
+/* Class = "UITableViewSection"; headerTitle = "Tinted"; ObjectID = "ylt-Fk-XEE"; */
+"ylt-Fk-XEE.headerTitle" = "Tinted";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ynp-Un-3Nj"; */
+"ynp-Un-3Nj.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Text Fields"; ObjectID = "zBI-nb-i1W"; */
+"zBI-nb-i1W.title" = "Text Fields";
